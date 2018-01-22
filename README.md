@@ -1,6 +1,7 @@
 # About me #
 
 - **Ksenia Vasilovskaya**
+- [ссылка вконтакте](https://m.vk.com/aksunenskaya/)
 - *HSE student*
 - **From Moscow**
 - ~~English~~ Spanish
